@@ -12,3 +12,5 @@
 ## Notes
 * You should be able to keep your internet on the entire time.
 * This is a pretty shitty crack, GraphPad still phones home but client side checks are bypassed. There also might be hidden crack traps which aren't bypassed.
+* Made for GraphPad Prism 10.0.2 (232), but it might work on some future versions.
+* I understand it is annoying having to go through the authentication flow every launch.
