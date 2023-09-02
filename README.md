@@ -8,3 +8,7 @@
 6. You will then be prompted to type a `First name`, `Last name`, and `Email`. You need to fill these inputs but you can use garbage data and click `OK`.
 7. You'll then get an error saying there is a connectivity issue, click `Continue`
 8. Enjoy :D
+
+## Notes
+* You should be able to keep your internet on the entire time.
+* This is a pretty shitty crack, GraphPad still phones home but client side checks are bypassed. There also might be hidden crack traps which aren't bypassed.
