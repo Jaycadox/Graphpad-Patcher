@@ -1,4 +1,5 @@
 # GraphPad Prism 10.0.2 (232) patcher/crack
+[Click here to download](https://github.com/Jaycadox/Graphpad-Patcher/files/12504312/Graphpad-Patcher.zip)
 ## Crack instructions
 1. Run `Graphpad-Patcher.exe` either before GraphPad is open, or during. `Graphpad-Patcher.exe` will automatically open GraphPad if it's not running.
 2. Given the patching was successful. Click `Serial Number (Machine Licenses)` in the Activation modal.
